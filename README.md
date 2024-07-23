@@ -67,7 +67,9 @@
 
 ### 🔥 My Top Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilTyagii)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilTyagii&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilTyagii&show_icons=true&theme=vision-friendly-dark)
 ---
 <!---
 SahilTyagii/SahilTyagii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
