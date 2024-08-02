@@ -22,7 +22,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
+  <img src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = 200>
+  <img src = "https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width = 200>
 </div>
 
 ---
